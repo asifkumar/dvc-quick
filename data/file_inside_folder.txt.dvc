@@ -1,0 +1,4 @@
+outs:
+- md5: c7253b64411b3aa485924efce6494bb5
+  size: 14
+  path: file_inside_folder.txt
