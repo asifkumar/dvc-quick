@@ -1,0 +1,4 @@
+outs:
+- md5: acab2f16e8cc2f33fd4a1e2bca17f0b1
+  size: 22
+  path: dvc_restore.txt
